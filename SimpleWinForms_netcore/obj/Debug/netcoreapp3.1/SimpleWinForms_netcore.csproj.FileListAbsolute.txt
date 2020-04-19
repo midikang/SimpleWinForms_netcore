@@ -4,7 +4,8 @@ D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcorea
 D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.runtimeconfig.dev.json
 D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.dll
 D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.pdb
-D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.csprojAssemblyReference.cache
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.Form1.resources
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.csproj.GenerateResource.cache
 D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.csproj.CoreCompileInputs.cache
 D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.AssemblyInfoInputs.cache
 D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.AssemblyInfo.cs
