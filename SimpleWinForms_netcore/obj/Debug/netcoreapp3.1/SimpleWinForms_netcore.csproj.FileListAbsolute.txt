@@ -1,0 +1,13 @@
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.exe
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.deps.json
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.runtimeconfig.json
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.runtimeconfig.dev.json
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.dll
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\bin\Debug\netcoreapp3.1\SimpleWinForms_netcore.pdb
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.csprojAssemblyReference.cache
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.csproj.CoreCompileInputs.cache
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.AssemblyInfoInputs.cache
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.AssemblyInfo.cs
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.dll
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.pdb
+D:\Learning\awesome\try\SimpleWinForms\SimpleWinForms_netcore\obj\Debug\netcoreapp3.1\SimpleWinForms_netcore.genruntimeconfig.cache
